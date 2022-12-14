@@ -9,4 +9,10 @@
 
 # Para baixar :
 + digite o seguinte comando no seu terminal : 
-+ 
++ git clone https://github.com/allancards/TR12_537791.git
+
+# Para gerar/compilar o arquivo
++ gcc TR5_537791.c main.c -o TR5_537791
+
+# Execução : 
++ ./TR5_537791
